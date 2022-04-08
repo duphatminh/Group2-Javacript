@@ -1,0 +1,14 @@
+#Title {
+    text-align: center;
+    padding: 30px;
+}
+.container {    
+    text-align: center;
+    width: 300px;
+    height: 400px;
+    margin: 80px auto;
+    background-color: rgb(99, 241, 241);
+}
+#text {
+    padding-top: 40px;
+}
